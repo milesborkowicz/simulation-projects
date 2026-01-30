@@ -19,5 +19,5 @@ I used Spyder to run this code with no install necessary.
 In the main() function, there are a number of functions for plotting, along with acc(), animate(), and test(). test() was used for debugging purposes and was often edited and scrapped for different uses. acc() measured the accuracy as randomization increased. animate() was a fun little animation I made of one singular guess of the model, mostly for presentaiton purposes.
 
 ## Project Notes
-This is an old school project that is no longer being worked on. Errors, bugs, etc. will no longer be fixed.
+This is an old school project that is no longer being worked on. Capstone project for computational physics course.
 
